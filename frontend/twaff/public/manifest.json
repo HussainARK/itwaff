@@ -1,0 +1,20 @@
+{
+  "short_name": "Twaff",
+  "name": "Twaff",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "2000x2000",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "2000x2000"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
